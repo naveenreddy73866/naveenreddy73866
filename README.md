@@ -1,5 +1,5 @@
-👋 Hi, I'm Naveen Reddy
-🎓 B.Tech Graduate | 💻 Cybersecurity Enthusiast
+-👋 Hi, I'm Naveen Reddy
+-🎓 B.Tech Graduate | 💻 Cybersecurity Enthusiast
 🔐 Skilled in Ethical Hacking, Linux, Networking, SQL, and Cloud Security
 🏅 Completed Google Cybersecurity Certificate & multiple CTF challenges
 🛡️ Passionate about Threat Detection, SOC Operations, and API Security
